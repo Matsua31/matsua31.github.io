@@ -1,15 +1,13 @@
-
 body {
     margin: 0;
-    font-family: Arial, sans-serif;
+    font-family: Montserrat, Arial, sans-serif;
     background: #f2f2f2;
 }
 
-/* Header */
 header {
     background: #222;
     color: white;
-    padding: 20px;
+    padding: 30px;
     text-align: center;
 }
 
@@ -21,11 +19,8 @@ section {
 }
 
 h2 {
-    border-left: 4px solid #222;
     padding-left: 10px;
 }
-
-/* Proyectos */
 .proyecto {
     background: white;
     padding: 20px;
@@ -33,8 +28,6 @@ h2 {
     border-radius: 8px;
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
 }
-
-/* Ocultar proyectos */
 .ocultar {
     display: none;
 }
